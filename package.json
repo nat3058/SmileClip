@@ -9,6 +9,9 @@
     "lint": "next lint",
     "deploy": "next build"
   },
+  "engines": {
+  "node": "^18.18.0 || ^19.8.0"
+},
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
     "@radix-ui/react-accordion": "^1.2.2",
